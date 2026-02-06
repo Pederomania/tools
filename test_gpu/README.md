@@ -8,12 +8,12 @@ Es útil para comprobar que tu entorno está listo para ejecutar código en GPU.
 1. Clonar o descargar el repositorio.
 2. Ir a la carpeta del script:
 ```bash
-cd test_torch_cuda
+cd test_gpu
 ```
 
 ## Ejecutar:
 ```
-python test_torch_cuda.py
+python test_gpu.py
 ```
 
 ## Ejemplo de salida
