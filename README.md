@@ -9,6 +9,7 @@ Cada utilidad tiene su propia carpeta con:
 - El script principal (`*.py`)
 - README individual con descripción, instrucciones y ejemplos
 
+```text
   tools/
 ├─ mostrar_estructura/
 │ ├─ mostrar_estructura.py
@@ -34,6 +35,7 @@ Cada utilidad tiene su propia carpeta con:
 └─ zip_to_txt/
 ├─ zip_to_txt.py
 └─ README.md
+```
 
 ## Contribuciones
 
