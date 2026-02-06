@@ -1,4 +1,4 @@
-# Test Torch CUDA
+# Test Torch GPU
 
 Este script verifica si PyTorch puede acceder a CUDA y muestra la GPU que se está usando.  
 Es útil para comprobar que tu entorno está listo para ejecutar código en GPU.
