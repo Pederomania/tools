@@ -2,7 +2,7 @@ import torch
 import time
 
 print("="*60)
-print("MULTITEST PYTORCH - ENTORNO GSE")
+print("MULTITEST PYTORCH")
 print("="*60)
 
 # -------------------------------
